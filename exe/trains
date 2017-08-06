@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require "automation_station"
+
+AutomationStation::Core::Runner.invoke
